@@ -1,2 +1,4 @@
-# BirdGame-Arena
-Bird Game inspired by some of the more Tekken-like bird game vids.
+# BirdGame Arena
+## - Please spare me! If you have any feedback about my code, kindly make an issue! I'm not the best at programming, especially with organization, so feedback is greatly appreciated.
+
+I'll try an base the characters on on both [@hexnestgames](https://www.instagram.com/hexnestgames/)'s and [@birdgame.three](https://www.instagram.com/birdgame.three/)'s versions of the game.
